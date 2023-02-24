@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
+nbconvert = "*"
+spotipy = "*"
+pandas = "*"
 
 [dev-packages]
 
