@@ -9,6 +9,11 @@ nbconvert = "*"
 spotipy = "*"
 pandas = "*"
 matplotlib = "*"
+data-patterns = "*"
+scikit-learn = "*"
+seaborn = "*"
+sklearn = "*"
+scipy = "*"
 
 [dev-packages]
 
